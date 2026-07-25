@@ -99,8 +99,8 @@ The landing routine uses continuous position feedback to determine when the targ
 │   ├── pid_gui.png
 │   ├── hover.png
 │   └── landing.png
-└── docs/
-    └── tuned_parameters.md
+└── video/
+    └── autonomous_landing_demo.mp4
 ```
 
 ---
