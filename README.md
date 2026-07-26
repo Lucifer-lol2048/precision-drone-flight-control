@@ -2,10 +2,10 @@
 
 A complete PX4 SITL project demonstrating PID tuning, stable autonomous flight, and precision landing using MAVSDK in a custom Gazebo simulation environment.
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PX4](https://img.shields.io/badge/PX4-Autopilot-005571?style=for-the-badge)
-![Gazebo](https://img.shields.io/badge/Gazebo-Classic-orange?style=for-the-badge)
 ![MAVSDK](https://img.shields.io/badge/MAVSDK-Python-blue?style=for-the-badge)
+![Gazebo](https://img.shields.io/badge/Gazebo-Classic-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
